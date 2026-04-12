@@ -37,7 +37,7 @@ async function stickerCommand(sock, chatId, message) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363407561123100@newsletter',
-                    newsletterName: 'LASER-MD',
+                    newsletterName: 'DOBERTO XD',
                     serverMessageId: -1
                 }
             }
@@ -59,7 +59,7 @@ async function stickerCommand(sock, chatId, message) {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363407561123100@newsletter',
-                        newsletterName: 'LASER-MD',
+                        newsletterName: 'DOBERTO XD',
                         serverMessageId: -1
                     }
                 }
@@ -217,7 +217,7 @@ async function stickerCommand(sock, chatId, message) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363407561123100@newsletter',
-                    newsletterName: 'LASER-MD',
+                    newsletterName: 'DOBERTO XD',
                     serverMessageId: -1
                 }
             }
