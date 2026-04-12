@@ -4,7 +4,7 @@ const path = require('path');
 
 async function helpCommand(sock, chatId, message) {
     const helpMessage = `
-🌟✨ *WELCOME TO ${settings.botName || 'QUEEN VALENTINA-MD'}* ✨🌟
+🌟✨ *WELCOME TO ${settings.botName || 'DOBERTO XD'}* ✨🌟
 🛠 Version: *${settings.version || '3.0.0'}*
 👑 Owner: *${settings.botOwner || 'Dev Sigma'}*
 📺 YouTube: ${global.ytch}
@@ -80,7 +80,7 @@ async function helpCommand(sock, chatId, message) {
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
                 newsletterJid: '120363423792937578@newsletter',
-                newsletterName: 'QUEEN VALENTINA MD',
+                newsletterName: 'DOBERTO XD',
                 serverMessageId: -1
             }
         };
