@@ -1,6 +1,6 @@
 # DOBERTO-XD
 This is Doberto x Tech Bot Created By Doberto 2026 The best whatsapp Bot
-# QUEEN-VALENTINA-MD
+# DOBERTO-XD
 ᴛʜɪs ɪs sigma x ᴛᴇᴄʜ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Sigma 2026 ᴛʜᴇ ʙᴇsᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ
 gr<div align="center">
 
