@@ -1,7 +1,7 @@
 const settings = require("../settings");
 async function aliveCommand(sock, chatId, message) {
     try {
-        const message1 = `*🤖 QUEEN VALENTINA MD is Active!*\n\n` +
+        const message1 = `*🤖 DOBERTO-XD is Active!*\n\n` +
                        `*Version:* ${settings.version}\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
@@ -19,7 +19,7 @@ async function aliveCommand(sock, chatId, message) {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363423792937578@newsletter',
-                    newsletterName: 'QUEEN VALENTINA MD',
+                    newsletterName: 'DOBERTO XD',
                     serverMessageId: -1
                 }
             }
